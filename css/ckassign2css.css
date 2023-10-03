@@ -1,0 +1,50 @@
+.box1{
+    width: 320px;
+    height: 370px;
+    padding: 10px;
+    border: lightgray 1px solid;
+    box-sizing: border-box;
+    border-radius: 14px;
+    font-family:'Mulish', sans-serif;
+    font-size: 10px;
+}
+.box1img{
+    width: 100%;
+    height: 60%;
+    border-radius: 14px;
+}
+.box1>h3{
+    color: gray;
+    font-size: 15px;
+    margin-top: 3px;
+    margin-bottom: 10px;
+}
+.box1>h1{
+    margin-bottom: 3px;
+}
+.foot{
+    margin-top: 20px;
+    border-top: 1px lightgray solid;
+    /* padding: 10px; */
+    /* box-sizing: border-box; */
+}
+.safety{
+    height: 80%;
+    width: 15%;
+    margin-top: 15px;
+    display: inline-block
+    
+    
+}
+.safetyimg{
+    width: 100%;
+    height:100%
+
+}
+.desc{
+    display: inline-block;
+    margin-bottom: 30px;
+}
+.desc>p{
+    font-size: 8px;
+}
